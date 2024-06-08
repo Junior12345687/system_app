@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="https://unpkg.com/qr-code-styling/lib/qr-code-styling.js"></script>
+    <title>QR Generator</title>
+</head>
+<body>
+    <div id="canvas"></div>
+    <form id="qrForm" onsubmit="return false;">
+       <div class="inputContainer">
+         <label for="dataInput">Data</label>
+         <input type="text" id="dataInput"/>
+       </div>
+       <div class="inputContainer">
+         <label for="qrImage">Image</label>
+         <input type="file" id="qrImage"/>
+       </div> 
+       <div class="inputContainer">
+         <label for="qrColor">Color</label>
+         <input type="color" id="qrColor" />
+       </div>
+       <div class="inputContainer">
+         <label for="qrType">Type</label>
+         <select id="qrType">
+          <option value="square">Square</option>
+          <option value="rounded">Rounded</option>
+          <option value="dots">Dots</option>
+         </select>
+       </div> 
+    </form>
+    <script></script>
+</body>
+</html>
