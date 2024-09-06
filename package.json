@@ -22,7 +22,7 @@
     "expo-face-detector": "^12.6.1",
     "expo-status-bar": "~1.11.1",
     "expo-web-browser": "^12.8.2",
-    "jimp": "^0.22.12",
+    "jimp": "^1.0.2",
     "react": "18.2.0",
     "react-native": "0.74.0",
     "react-native-animatable": "^1.4.0",
