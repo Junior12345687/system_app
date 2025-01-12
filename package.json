@@ -18,7 +18,7 @@
     "@react-navigation/stack": "^6.3.29",
     "axios": "^1.6.8",
     "bcryptjs": "^2.4.3",
-    "expo": "51.0.0",
+    "expo": "52.0.24",
     "expo-face-detector": "^12.6.1",
     "expo-status-bar": "~1.11.1",
     "expo-web-browser": "^12.8.2",
