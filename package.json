@@ -36,7 +36,7 @@
     "vcard-creator": "^0.7.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.26.10"
   },
   "private": true
 }
